@@ -40,6 +40,6 @@
 <hr>
 
 ![Victor Gomes's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=vttrg&show_icons=true&theme=radical)
-</div><br>
+</div>
 <hr>
 
