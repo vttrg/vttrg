@@ -1,6 +1,6 @@
 ### Olá, eu me chamo Victor Gomes! 👋😜
 
-<hr><br>
+<hr>
 <div align="center">
 • 📚 Atualmente estudando Desenvolvimento Web Completo e Desenvolvimento Full Stack<br>
 • 🌠 Trying To Do Better!<br>
